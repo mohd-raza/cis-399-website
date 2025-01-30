@@ -4,7 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CIS 1200: Programming Languages and Techniques</title>
+    <title>CIS 3990: Intro to AI</title>
+    
+    <!-- Favicon -->
+    <link rel="icon" href="assets/R2D2.png" type="image/png">
+
+    <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
@@ -22,30 +27,6 @@
 
 <body class="bg-blue-50 min-h-screen">
     <!-- Navigation Bar -->
-    <!-- <nav class="bg-white shadow-lg">
-        <div class="max-w-7xl mx-auto px-4">
-            <div class="flex justify-between items-center h-16">
-                <div class="flex items-center">
-                    <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-VBpBfEceYckJvX5a6D7vPW9RPyADF6.png"
-                        alt="Course Logo" class="h-8 w-8">
-                    <span class="ml-2 text-xl font-semibold">Spring 2025</span>
-                </div>
-                <div class="flex space-x-4">
-                    <a href="index.html"
-                        class="text-primary hover:text-secondary px-3 py-2 rounded-md font-medium">Home</a>
-                    <a href="office-hours.html"
-                        class="text-gray-700 hover:text-secondary px-3 py-2 rounded-md font-medium">Office Hours</a>
-                    <a href="staff.html"
-                        class="text-gray-700 hover:text-secondary px-3 py-2 rounded-md font-medium">Staff</a>
-                    <a href="ed.html" class="text-gray-700 hover:text-secondary px-3 py-2 rounded-md font-medium">Ed</a>
-                    <a href="materials.html"
-                        class="text-gray-700 hover:text-secondary px-3 py-2 rounded-md font-medium">
-                        Materials</a>
-                </div>
-            </div>
-        </div>
-    </nav>
-     -->
     <div id="navbar"></div>
     <script>
         fetch("navbar.html")
@@ -58,45 +39,57 @@
 
     <!-- Main Content -->
     <main class="max-w-7xl mx-auto px-4 py-8">
-        <h1 class="text-4xl font-bold text-gray-800 mb-8">CIS 1200: Programming Languages and Techniques</h1>
+        <h2 class="text-xl font-bold text-gray-800 mb-6">
+            Instructor: <a href="https://www.cis.upenn.edu/~ccb/" class="text-primary hover:text-secondary" target="_blank">Professor Chris Callison-Burch</a>
+        </h2>        
+        <section class="mb-12">
+            <h2 class="text-3xl font-bold text-gray-800 mb-4">Course Overview</h2>
+            <p class="text-gray-600 mb-2">
+                CIS 3990 introduces students to the fundamental principles of Artificial Intelligence (AI), 
+                covering theoretical foundations and practical applications.
+            </p>
+            <p class="text-gray-600 mb-1">Topics include:</p>
+            <ul class="list-disc text-gray-600 ml-6 space-y-1">
+                <li>AI Philosophy, Sci-Fi, and Real-World Applications</li>
+                <li>Large Language Models (LLMs) & Neural Networks</li>
+                <li>K-Nearest Neighbors, Vector Representations, and Embeddings</li>
+                <li>Robotic Agents</li>
+                <li>Search Algorithms: Uninformed and Informed Search</li>
+                <li>Classical Planning and Logic-Based Representations</li>
+                <li>Markov Decision Processes (MDPs) & Reasoning Under Uncertainty</li>
+                <li>Reinforcement Learning: Theory and Applications</li>
+                <li>AI Ethics and Societal Impacts</li>
+            </ul>
+            <p class="text-gray-600 mt-4">
+                This course is designed for freshman or sophomore students who plan to major in Artificial
+                Intelligence (AI). It serves as one of the introductory courses in the AI curriculum alongside ESE
+                2000. CIS 3990 complements ESE 2000 by focusing on language models, robotics, and search algorithms, 
+                whereas ESE 2000 emphasizes machine learning, neural networks, and dynamical systems. 
+                Together, they provide a comprehensive foundation in AI. 
+            </p>
+        </section>        
 
         <section class="mb-12">
-            <h2 class="text-3xl font-bold text-gray-800 mb-4">Computer Science through Program Design</h2>
-            <p class="text-gray-600 mb-6">CIS 1200 introduces students to computer science by emphasizing the design
-                aspects of programming.</p>
-
-            <h3 class="text-xl font-semibold text-gray-800 mb-4">Topics include:</h3>
-            <ul class="list-disc list-inside text-gray-600 space-y-2">
-                <li>Data types and data representation</li>
-                <li>Abstraction, interfaces, and modularity</li>
-                <li>Test-driven development</li>
-                <li>Programming patterns (recursion, iteration, events, call-backs, collections, map-reduce, GUIs, ...)
-                </li>
-                <li>Functional programming</li>
-                <li>How and when to use mutable state</li>
-                <li>Object-oriented programming</li>
-            </ul>
+            <h2 class="text-3xl font-bold text-gray-800 mb-4">Logistics</h2>
+            <p class="text-gray-600 mb-6">
+                The course meets Mondays & Wednesdays at 1:45pm - 3:15pm in <a href="https://facilities.upenn.edu/maps/locations/amygutmannhall" class="text-primary hover:text-secondary" target="_blank">AGH 203</a>.
+            </p>
+            <p class="text-gray-600 mb-6">
+                All course announcements and discussions will be posted to <a href="https://edstem.org/us/courses/73141/discussion" class="text-primary hover:text-secondary" target="_blank">Ed</a>.
+            </p>
+            <p class="text-gray-600 mb-6">
+                Course materials and references are in the <a href="/assets/Introduction-to-Artificial-Intelligence.pdf" class="text-primary hover:text-secondary" target="_blank">Syllabus</a>.
+            </p>
         </section>
 
-        <section>
-            <h2 class="text-3xl font-bold text-gray-800 mb-4">Important Course Information</h2>
-            <ul class="space-y-2">
-                <li>
-                    <a href="syllabus.html" class="text-primary hover:text-secondary">Syllabus</a>
-                    <span class="text-gray-600"> - Course policies and procedures</span>
-                </li>
-                <li>
-                    <a href="faqs.html" class="text-primary hover:text-secondary">FAQs</a>
-                    <span class="text-gray-600"> - Commonly asked questions</span>
-                </li>
-                <li>
-                    <a href="wellbeing.html" class="text-primary hover:text-secondary">Wellbeing</a>
-                    <span class="text-gray-600"> - Where to get help</span>
-                </li>
-                <li>
-                    <a href="resources.html" class="text-primary hover:text-secondary">Resources</a>
-                    <span class="text-gray-600"> - Information about OCaml and Java programming languages</span>
-                </li>
+        <section class="mb-12">
+            <h2 class="text-3xl font-bold text-gray-800 mb-4">Recommended Follow-Up Courses</h2>
+            <ul class="list-disc list-inside text-gray-600 space-y-2">
+                <li>Large language models and their applications (CIS 5300: NLP)</li>
+                <li>Robotic agents and programming (MEAM 5200: Robotics)</li>
+                <li>Search algorithms and heuristics (CIS 3200: Algorithms)</li>
+                <li>Reinforcement learning and deep learning (ESE 5460, ESE 6800)</li>
+                <li>AI ethics and societal impacts (CIS 4230, LAWM 5060)</li>
             </ul>
         </section>
     </main>
