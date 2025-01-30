@@ -1,0 +1,67 @@
+{
+  "weeks": [
+    {
+      "weekNumber": 1,
+      "sessions": [
+        {
+          "date": "Wed 1/15",
+          "topic": "Course intro / AI in Philosophy and in SciFi",
+          "slides": {
+            "title": "lec01.pdf",
+            "url": "https://docs.google.com/presentation/d/1SGoLrjrbzDZv_S_fS8xqqlvY66URQr2BTWN5UPEY84s/edit?usp=sharing"
+          },
+          "lectureVideo": {
+            "title": "Lecture 1",
+            "url": "https://upenn.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=23b145de-31dd-44bf-b711-b26a013619af"
+          }
+        }
+      ]
+    },
+    {
+      "weekNumber": 2,
+      "sessions": [
+        {
+          "date": "Wed 1/22",
+          "topic": "AGI and Rational Agents",
+          "slides": {
+            "title": "lec02.pdf",
+            "url": "https://docs.google.com/presentation/d/1SGoLrjrbzDZv_S_fS8xqqlvY66URQr2BTWN5UPEY84s/edit"
+          },
+          "lectureVideo": {
+            "title": "Lecture 2",
+            "url": "https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=37986fa7-c8e2-4cc2-8543-b26d0184b88f"
+          }
+        },
+        {
+          "date": "Fri 1/24",
+          "topic": "Task Environments, History of NLP and LLMs",
+          "slides": {
+            "title": "lec03.pdf",
+            "url": "https://docs.google.com/presentation/d/1qbaL_tcUoEAEPDTsXuPIrfLAoO5sIOWhjnRhcslF1bw/edit"
+          },
+          "lectureVideo": {
+            "title": "Lecture 3",
+            "url": "https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=779b4ac9-e59d-45cb-b29f-b273015a55ed"
+          }
+        }
+      ]
+    },
+    {
+      "weekNumber": 3,
+      "sessions": [
+        {
+          "date": "Wed 1/29",
+          "topic": "GPT",
+          "slides": {
+            "title": "lec04.pdf",
+            "url": "https://docs.google.com/presentation/d/1dycPKCsSlGlm-OENxc-_3ylBPl4agoT7Xr2JmiXuWp8/edit#slide=id.g2af5dd0f8af_0_266"
+          },
+          "lectureVideo": {
+            "title": "Lecture 4",
+            "url": ""
+          }
+        }
+      ]
+    }
+  ]
+}
