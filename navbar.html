@@ -1,23 +1,59 @@
 <!-- navbar.html -->
-<nav class="bg-white shadow-lg fixed top-0 left-0 right-0 z-50">
+<nav class="bg-white shadow-lg">
     <div class="max-w-7xl mx-auto px-4">
         <div class="flex justify-between items-center h-16">
             <div class="flex items-center">
-                <img src="assets/penn-logo.png" alt="Course Logo" class="h-12 w-12">
-                <span class="ml-2 text-xl font-semibold">CIS 3990: Intro to AI - Spring 2025</span>
+                <img src="assets/penn-logo.png" alt="Course Logo" class="h-8 w-8">
+                <span class="ml-2 text-xl font-semibold">
+                    CIS 3990: Introduction to Artificial Intelligence (Spring 2025)
+                </span>
             </div>
             <div class="flex space-x-4">
-                <a href="index.html" class="text-primary hover:text-secondary px-3 py-2 rounded-md font-medium">Home</a>
+                <!-- All links use 'nav-link' and a default text color -->
+                <a href="index.html"
+                    class="nav-link text-gray-700 hover:text-secondary px-3 py-2 rounded-md font-medium">
+                    Home
+                </a>
                 <a href="office-hours.html"
-                    class="text-gray-700 hover:text-secondary px-3 py-2 rounded-md font-medium">Office Hours</a>
+                    class="nav-link text-gray-700 hover:text-secondary px-3 py-2 rounded-md font-medium">
+                    Office Hours
+                </a>
                 <a href="staff.html"
-                    class="text-gray-700 hover:text-secondary px-3 py-2 rounded-md font-medium">Staff</a>
+                    class="nav-link text-gray-700 hover:text-secondary px-3 py-2 rounded-md font-medium">
+                    Staff
+                </a>
                 <a href="materials.html"
-                    class="text-gray-700 hover:text-secondary px-3 py-2 rounded-md font-medium">Materials</a>
+                    class="nav-link text-gray-700 hover:text-secondary px-3 py-2 rounded-md font-medium">
+                    Materials
+                </a>
             </div>
         </div>
     </div>
-    <script>
-        document.body.style.paddingTop = '4rem';
-    </script>
 </nav>
+
+<script>
+    // Highlight the link that matches the current page
+    document.addEventListener('DOMContentLoaded', () => {
+        // Get just the filename from the current path, e.g. 'index.html'
+        const currentPage = window.location.pathname.split('/').pop();
+
+        // Select all navbar links
+        const navLinks = document.querySelectorAll('.nav-link');
+
+        // Loop through each link
+        navLinks.forEach(link => {
+            // Get just the filename from this link's href
+            const linkPage = link.getAttribute('href').split('/').pop();
+
+            // If it matches the current page, highlight it
+            if (linkPage === currentPage) {
+                // Remove the default text color
+                link.classList.remove('text-gray-700');
+                // Add your active color or style
+                link.classList.add('text-primary');
+                // Optionally add other styling (e.g., font-bold) if you like
+                // link.classList.add('font-bold');
+            }
+        });
+    });
+</script>
