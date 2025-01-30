@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Office Hours - CIS 1200</title>
+    <title>Office Hours - CIS 3990</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
@@ -35,8 +35,61 @@
     <!-- Main Content -->
     <main class="max-w-7xl mx-auto px-4 py-8">
         <h1 class="text-4xl font-bold text-gray-800 mb-8">Office Hours</h1>
-    </main>
 
+        <!-- TA Office Hours Schedule Table -->
+        <div class="bg-white shadow-md p-6 rounded-lg mb-8">
+            <h2 class="text-2xl font-semibold text-gray-800 mb-4">TA Office Hours Schedule</h2>
+            <div class="overflow-x-auto">
+                <table class="w-full border-collapse border border-gray-300">
+                    <thead>
+                        <tr class="bg-gray-200">
+                            <th class="border border-gray-300 px-4 py-2">Monday</th>
+                            <th class="border border-gray-300 px-4 py-2">Tuesday</th>
+                            <th class="border border-gray-300 px-4 py-2">Wednesday</th>
+                            <th class="border border-gray-300 px-4 py-2">Thursday</th>
+                            <th class="border border-gray-300 px-4 py-2">Friday</th>
+                            <th class="border border-gray-300 px-4 py-2">Saturday</th>
+                            <th class="border border-gray-300 px-4 py-2">Sunday</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="text-gray-700 text-center">
+                            <td class="border border-gray-300 px-4 py-2">None</td>
+                            <td class="border border-gray-300 px-4 py-2">10 am - 12 pm (AGH 318),<br>3-7 pm (AGH 300A), <br>8-10 pm (Virtual), <br>11pm - Midnight (Virtual)</td>
+                            <td class="border border-gray-300 px-4 py-2">10 am - 12 pm (AGH 300B),<br>1-3 pm (AGH 300B), <br>7-9 pm (AGH 300A), <br>9pm - Midnight (Virtual)</td>
+                            <td class="border border-gray-300 px-4 py-2">3:30-4:30pm (AGH 431)</td>
+                            <td class="border border-gray-300 px-4 py-2">None</td>
+                            <td class="border border-gray-300 px-4 py-2">None</td>
+                            <td class="border border-gray-300 px-4 py-2">None</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Instructor Office Hours -->
+        <div class="bg-white shadow-md p-6 rounded-lg mb-8">
+            <h2 class="text-2xl font-semibold text-gray-800 mb-4">Instructor Office Hours Schedule</h2>
+            <p class="text-gray-600">
+                <strong>Prof. Chris Callison-Burch</strong>: Wednesdays 3:30-4:30pm in AGH 431 and also by appointment 
+            </p>
+        </div>
+
+        <!-- Google Calendar Embed -->
+        <div class="bg-white shadow-md p-6 rounded-lg">
+            <h2 class="text-2xl font-semibold text-gray-800 mb-4">Office Hours Schedule</h2>
+            <p class="text-gray-600 mb-4">
+                You can view and book office hours directly through the embedded Google Calendar below. 
+                Click <a href="https://calendar.google.com/calendar/embed?src=c_9a563cb3490fdf7b20d0593852782908dbb1ad15ee915462d42208109a902760@group.calendar.google.com" 
+                class="text-primary hover:text-secondary font-medium" target="_blank">here</a> to open it in a new tab.
+            </p>
+
+            <div class="overflow-hidden rounded-lg shadow-md">
+                <iframe src="https://calendar.google.com/calendar/embed?src=c_9a563cb3490fdf7b20d0593852782908dbb1ad15ee915462d42208109a902760%40group.calendar.google.com&ctz=America%2FNew_York"
+                    style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+            </div>
+        </div>
+    </main>
 </body>
 
 </html>
