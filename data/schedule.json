@@ -5,14 +5,14 @@
       "sessions": [
         {
           "date": "Wed 1/15",
-          "topic": "Course intro / AI in Philosophy and in SciFi",
+          "topic": "Course intro + AI in Philosophy and in SciFi",
           "slides": {
             "title": "lec01.pdf",
             "url": "https://docs.google.com/presentation/d/1SGoLrjrbzDZv_S_fS8xqqlvY66URQr2BTWN5UPEY84s/edit?usp=sharing"
           },
           "lectureVideo": {
             "title": "Lecture 1",
-            "url": "https://upenn.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=23b145de-31dd-44bf-b711-b26a013619af"
+            "url": "https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0d7573c8-326e-45f5-a4f8-b26a01365fd2"
           }
         }
       ]
@@ -25,23 +25,11 @@
           "topic": "AGI and Rational Agents",
           "slides": {
             "title": "lec02.pdf",
-            "url": "https://docs.google.com/presentation/d/1SGoLrjrbzDZv_S_fS8xqqlvY66URQr2BTWN5UPEY84s/edit"
+            "url": "https://docs.google.com/presentation/d/1SGoLrjrbzDZv_S_fS8xqqlvY66URQr2BTWN5UPEY84s/edit?usp=sharing"
           },
           "lectureVideo": {
             "title": "Lecture 2",
             "url": "https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=37986fa7-c8e2-4cc2-8543-b26d0184b88f"
-          }
-        },
-        {
-          "date": "Fri 1/24",
-          "topic": "Task Environments, History of NLP and LLMs",
-          "slides": {
-            "title": "lec03.pdf",
-            "url": "https://docs.google.com/presentation/d/1qbaL_tcUoEAEPDTsXuPIrfLAoO5sIOWhjnRhcslF1bw/edit"
-          },
-          "lectureVideo": {
-            "title": "Lecture 3",
-            "url": "https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=779b4ac9-e59d-45cb-b29f-b273015a55ed"
           }
         }
       ]
@@ -50,15 +38,102 @@
       "weekNumber": 3,
       "sessions": [
         {
-          "date": "Wed 1/29",
-          "topic": "GPT",
+          "date": "Mon 1/27",
+          "topic": "Task Environments, History of NLP, and LLMs",
           "slides": {
-            "title": "lec04.pdf",
-            "url": "https://docs.google.com/presentation/d/1dycPKCsSlGlm-OENxc-_3ylBPl4agoT7Xr2JmiXuWp8/edit#slide=id.g2af5dd0f8af_0_266"
+            "title": "lec03.pdf",
+            "url": "https://docs.google.com/presentation/d/1qbaL_tcUoEAEPDTsXuPIrfLAoO5sIOWhjnRhcslF1bw/edit?usp=sharing"
           },
           "lectureVideo": {
-            "title": "Lecture 4",
+            "title": "Lecture 3",
+            "url": "https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=779b4ac9-e59d-45cb-b29f-b273015a55ed"
+          }
+        },
+        {
+          "date": "Wed 1/29",
+          "topic": "GPT and GPT-2: Pre-Training and Fine-Tuning",
+          "slides": {
+            "title": "lec04.pdf",
+            "url": "https://docs.google.com/presentation/d/1dycPKCsSlGlm-OENxc-_3ylBPl4agoT7Xr2JmiXuWp8/edit?usp=sharing"
+          },
+          "lectureVideo": {
+            "title": "[No Recording]",
             "url": ""
+          }
+        }
+      ]
+    },
+    {
+      "weekNumber": 4,
+      "sessions": [
+        {
+          "date": "Mon 2/3",
+          "topic": "GPT-3: Instruction Fine-Tuning and RLHF",
+          "slides": {
+            "title": "lec05.pdf",
+            "url": "https://docs.google.com/presentation/d/1dycPKCsSlGlm-OENxc-_3ylBPl4agoT7Xr2JmiXuWp8/edit?usp=sharing"
+          },
+          "lectureVideo": {
+            "title": "Lecture 5",
+            "url": "https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3f39f5ec-ff6b-4dcb-b6f6-b279016974fe"
+          }
+        },
+        {
+          "date": "Wed 2/5",
+          "topic": "GPT-4: Multimodal LLMs and AI Alignment",
+          "slides": {
+            "title": "lec06.pdf",
+            "url": "https://docs.google.com/presentation/d/1dycPKCsSlGlm-OENxc-_3ylBPl4agoT7Xr2JmiXuWp8/edit?usp=sharing"
+          },
+          "lectureVideo": {
+            "title": "Lecture 6",
+            "url": "https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c7cee4c7-3454-4864-9686-b27b017f3e7e"
+          }
+        }
+      ]
+    },
+    {
+      "weekNumber": 5,
+      "sessions": [
+        {
+          "date": "Mon 2/10",
+          "topic": "Tool Use and HW2 walk through",
+          "slides": {
+            "title": "lec07.pdf",
+            "url": "https://docs.google.com/presentation/d/1gB3eEfvafOfNM907YANGksj3R8LoRwY7iHT5ooFbsYk/edit?usp=sharing"
+          },
+          "lectureVideo": {
+            "title": "Lecture 7",
+            "url": "https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aaeab493-dae1-4965-8ecc-b281000fa563"
+          }
+        },
+        {
+          "date": "Wed 2/12",
+          "topic": "Advanced Topics in LLMs",
+          "slides": {
+            "title": "lec08.pdf",
+            "url": "https://docs.google.com/presentation/d/1cUw1_Mxmd45unYurZnbWhkURIuKKkb7RqwPW0qIcMDY/edit?usp=sharing"
+          },
+          "lectureVideo": {
+            "title": "Lecture 8",
+            "url": "https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6415cf5e-90e6-4614-b840-b282016e2e28"
+          }
+        }
+      ]
+    },
+    {
+      "weekNumber": 6,
+      "sessions": [
+        {
+          "date": "Mon 2/17",
+          "topic": "CodeLMs and CoT Reasoning",
+          "slides": {
+            "title": "lec09.pdf",
+            "url": ""
+          },
+          "lectureVideo": {
+            "title": "Lecture 9",
+            "url": "https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0aa66c6a-e478-4b91-8fa3-b288000ae198"
           }
         }
       ]
