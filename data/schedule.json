@@ -109,7 +109,7 @@
         },
         {
           "date": "Wed 2/12",
-          "topic": "Advanced Topics in LLMs",
+          "topic": "Advanced Topics in LLMs #1: Multimodal LLMs and RAG",
           "slides": {
             "title": "lec08.pdf",
             "url": "https://docs.google.com/presentation/d/1cUw1_Mxmd45unYurZnbWhkURIuKKkb7RqwPW0qIcMDY/edit?usp=sharing"
@@ -126,14 +126,26 @@
       "sessions": [
         {
           "date": "Mon 2/17",
-          "topic": "CodeLMs and CoT Reasoning",
+          "topic": "Advanced Topics in LLMs #2: CodeLMs and CoT Reasoning",
           "slides": {
             "title": "lec09.pdf",
-            "url": ""
+            "url": "https://docs.google.com/presentation/d/1cUw1_Mxmd45unYurZnbWhkURIuKKkb7RqwPW0qIcMDY/edit?usp=sharing"
           },
           "lectureVideo": {
             "title": "Lecture 9",
             "url": "https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0aa66c6a-e478-4b91-8fa3-b288000ae198"
+          }
+        },
+        {
+          "date": "Wed 2/19",
+          "topic": "A Hands-On Introduction to Vision-Language Models (guest lecture by Artemis Panagopoulou)",
+          "slides": {
+            "title": "lec10.pdf",
+            "url": "https://drive.google.com/file/d/1wWzEUP-JO9QXF7Sgnw-PGyCg5loZ7NTq/view?usp=sharing"
+          },
+          "lectureVideo": {
+            "title": "Lecture 10",
+            "url": "https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d8cb4c48-5830-43c3-8011-b28b002fa93d"
           }
         }
       ]
