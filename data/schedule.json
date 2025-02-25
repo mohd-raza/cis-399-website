@@ -149,6 +149,100 @@
           }
         }
       ]
+    },
+    {
+      "weekNumber": 7,
+      "sessions": [
+        {
+          "date": "Mon 2/24",
+          "topic": "TBD",
+          "slides": {
+            "title": "lec11.pdf",
+            "url": ""
+          },
+          "lectureVideo": {
+            "title": "Lecture 11",
+            "url": ""
+          }
+        },
+        {
+          "date": "Wed 2/26",
+          "topic": "TBD",
+          "slides": {
+            "title": "lec12.pdf",
+            "url": ""
+          },
+          "lectureVideo": {
+            "title": "Lecture 12",
+            "url": ""
+          }
+        }
+      ]
+    },
+    {
+      "weekNumber": 8,
+      "sessions": [
+        {
+          "date": "Mon 3/3",
+          "topic": "TBD",
+          "slides": {
+            "title": "lec13.pdf",
+            "url": ""
+          },
+          "lectureVideo": {
+            "title": "Lecture 13",
+            "url": ""
+          }
+        },
+        {
+          "date": "Wed 3/5",
+          "topic": "TBD",
+          "slides": {
+            "title": "lec14.pdf",
+            "url": ""
+          },
+          "lectureVideo": {
+            "title": "Lecture 14",
+            "url": ""
+          }
+        }
+      ]
+    },
+    {
+      "weekNumber": 9,
+      "sessions": [{
+        "date": "",
+        "topic": "📌 SPRING BREAK 📌"
+      }]
+    },
+    {
+      "weekNumber": 10,
+      "sessions": [
+        {
+          "date": "Mon 3/17",
+          "topic": "TBD",
+          "slides": {
+            "title": "lec15.pdf",
+            "url": ""
+          },
+          "lectureVideo": {
+            "title": "Lecture 15",
+            "url": ""
+          }
+        },
+        {
+          "date": "Wed 3/19",
+          "topic": "TBD",
+          "slides": {
+            "title": "lec16.pdf",
+            "url": ""
+          },
+          "lectureVideo": {
+            "title": "Lecture 16",
+            "url": ""
+          }
+        }
+      ]
     }
   ]
 }
