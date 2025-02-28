@@ -167,14 +167,14 @@
         },
         {
           "date": "Wed 2/26",
-          "topic": "TBD",
+          "topic": "Embeddings and Nearest Neighbors",
           "slides": {
             "title": "lec12.pdf",
-            "url": ""
+            "url": "https://docs.google.com/presentation/d/168XjPQdHTTW2IsCcH4EXjs_HJHuyPD-X_oRxF198Svo/edit?usp=sharing"
           },
           "lectureVideo": {
-            "title": "Lecture 12",
-            "url": ""
+            "title": "Demo [No Recording]",
+            "url": "https://colab.research.google.com/drive/1q250T71xx8N_VroadbOr8B6afyiIu1j7?usp=sharing"
           }
         }
       ]
