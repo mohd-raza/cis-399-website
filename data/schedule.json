@@ -187,7 +187,7 @@
           "topic": "TBD",
           "slides": {
             "title": "lec13.pdf",
-            "url": ""
+            "url": "https://docs.google.com/presentation/d/1WRTRNpPJqCv6LtLneMoPhjo629Y9zEdV-YyZOozhM88/edit?usp=sharing"
           },
           "lectureVideo": {
             "title": "Lecture 13",
@@ -232,15 +232,7 @@
         },
         {
           "date": "Wed 3/19",
-          "topic": "TBD",
-          "slides": {
-            "title": "lec16.pdf",
-            "url": ""
-          },
-          "lectureVideo": {
-            "title": "Lecture 16",
-            "url": ""
-          }
+          "topic": "Midterm Exam"
         }
       ]
     }
