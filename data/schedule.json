@@ -89,6 +89,18 @@
             "title": "Lecture 6",
             "url": "https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c7cee4c7-3454-4864-9686-b27b017f3e7e"
           }
+        },
+        {
+          "date": "",
+          "topic": "📚 Homework 1: AI-Enhanced Learning",
+          "slides": {
+            "title": "HW1 (Due 2/5 at 11:59pm)",
+            "url": "https://canvas.upenn.edu/courses/1842203/assignments/13275433"
+          },
+          "lectureVideo": {
+            "title": "",
+            "url": ""
+          }
         }
       ]
     },
@@ -118,12 +130,36 @@
             "title": "Lecture 8",
             "url": "https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6415cf5e-90e6-4614-b840-b282016e2e28"
           }
+        },
+        {
+          "date": "",
+          "topic": "📚 Homework 2: Intro to LLM APIs",
+          "slides": {
+            "title": "HW2 (Due 2/12 at 11:59pm)",
+            "url": "https://canvas.upenn.edu/courses/1842203/assignments/13312356"
+          },
+          "lectureVideo": {
+            "title": "",
+            "url": ""
+          }
         }
       ]
     },
     {
       "weekNumber": 6,
       "sessions": [
+        {
+          "date": "Sun 2/16",
+          "topic": "📝 Module 1 Quiz",
+          "slides": {
+            "title": "Quiz 1 (due at 11:59pm)",
+            "url": "https://canvas.upenn.edu/courses/1842203/assignments/13311988"
+          },
+          "lectureVideo": {
+            "title": "",
+            "url": ""
+          }
+        },
         {
           "date": "Mon 2/17",
           "topic": "Advanced Topics in LLMs #2: CodeLMs and CoT Reasoning",
@@ -147,12 +183,36 @@
             "title": "Lecture 10",
             "url": "https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d8cb4c48-5830-43c3-8011-b28b002fa93d"
           }
+        },
+        {
+          "date": "",
+          "topic": "📚 Homework 3: LLM Few-shot, Zero-shot, and Fine-tuning",
+          "slides": {
+            "title": "HW3 (Due 2/19 at 11:59pm)",
+            "url": "https://canvas.upenn.edu/courses/1842203/assignments/13322447"
+          },
+          "lectureVideo": {
+            "title": "",
+            "url": ""
+          }
         }
       ]
     },
     {
       "weekNumber": 7,
       "sessions": [
+        {
+          "date": "Sun 2/23",
+          "topic": "📝 Module 2 Quiz",
+          "slides": {
+            "title": "Quiz 2 (due at 11:59pm)",
+            "url": "https://canvas.upenn.edu/courses/1842203/assignments/13328316"
+          },
+          "lectureVideo": {
+            "title": "",
+            "url": ""
+          }
+        },
         {
           "date": "Mon 2/24",
           "topic": "Vector Semantics",
@@ -176,6 +236,18 @@
             "title": "Demo [No Recording]",
             "url": "https://colab.research.google.com/drive/1q250T71xx8N_VroadbOr8B6afyiIu1j7?usp=sharing"
           }
+        },
+        {
+          "date": "",
+          "topic": "📚 Homework 4: Retrieval Augmented Generation and Large Multimodal Models",
+          "slides": {
+            "title": "HW4 (Due 2/26 at 11:59pm)",
+            "url": "https://canvas.upenn.edu/courses/1842203/assignments/13342463"
+          },
+          "lectureVideo": {
+            "title": "",
+            "url": ""
+          }
         }
       ]
     },
@@ -183,8 +255,20 @@
       "weekNumber": 8,
       "sessions": [
         {
+          "date": "Sun 2/23",
+          "topic": "📝 Module 3 Quiz",
+          "slides": {
+            "title": "Quiz 3 (due at 11:59pm)",
+            "url": "https://canvas.upenn.edu/courses/1842203/assignments/13328389"
+          },
+          "lectureVideo": {
+            "title": "",
+            "url": ""
+          }
+        },
+        {
           "date": "Mon 3/3",
-          "topic": "TBD",
+          "topic": "Search Problems",
           "slides": {
             "title": "lec13.pdf",
             "url": "https://docs.google.com/presentation/d/1WRTRNpPJqCv6LtLneMoPhjo629Y9zEdV-YyZOozhM88/edit?usp=sharing"
@@ -203,6 +287,30 @@
           },
           "lectureVideo": {
             "title": "Lecture 14",
+            "url": ""
+          }
+        },
+        {
+          "date": "",
+          "topic": "📚 Homework 5: KNN and Embeddings",
+          "slides": {
+            "title": "HW5 (Due 3/5 at 11:59pm)",
+            "url": "https://canvas.upenn.edu/courses/1842203/assignments/13342488"
+          },
+          "lectureVideo": {
+            "title": "",
+            "url": ""
+          }
+        },
+        {
+          "date": "Fri 3/7",
+          "topic": "📝 Module 4 Quiz",
+          "slides": {
+            "title": "Quiz 4 (due at 11:59pm)",
+            "url": "https://canvas.upenn.edu/courses/1842203/assignments/13353399"
+          },
+          "lectureVideo": {
+            "title": "",
             "url": ""
           }
         }
@@ -232,7 +340,7 @@
         },
         {
           "date": "Wed 3/19",
-          "topic": "Midterm Exam"
+          "topic": "🗓️ Midterm Exam"
         }
       ]
     }
