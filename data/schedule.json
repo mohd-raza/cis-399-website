@@ -328,7 +328,19 @@
       "sessions": [
         {
           "date": "Mon 3/17",
-          "topic": "TBD",
+          "topic": "No Class",
+          "slides": {
+            "title": "",
+            "url": ""
+          },
+          "lectureVideo": {
+            "title": "",
+            "url": ""
+          }
+        },
+        {
+          "date": "Wed 3/19",
+          "topic": "Midterm Review Session",
           "slides": {
             "title": "lec15.pdf",
             "url": ""
@@ -337,10 +349,27 @@
             "title": "Lecture 15",
             "url": ""
           }
+        }
+      ]
+    },
+    {
+      "weekNumber": 11,
+      "sessions": [
+        {
+          "date": "Mon 3/24",
+          "topic": "🗓️ Midterm Exam"
         },
         {
-          "date": "Wed 3/19",
-          "topic": "🗓️ Midterm Exam"
+          "date": "Wed 3/26",
+          "topic": "TBD",
+          "slides": {
+            "title": "lec16.pdf",
+            "url": ""
+          },
+          "lectureVideo": {
+            "title": "Lecture 16",
+            "url": ""
+          }
         }
       ]
     }
