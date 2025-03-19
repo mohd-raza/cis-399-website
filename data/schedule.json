@@ -356,6 +356,18 @@
       "weekNumber": 11,
       "sessions": [
         {
+          "date": "Sun 3/23",
+          "topic": "📝 Module 5 Quiz",
+          "slides": {
+            "title": "Quiz 5 (due at 11:59pm)",
+            "url": "https://canvas.upenn.edu/courses/1842203/quizzes/3480048"
+          },
+          "lectureVideo": {
+            "title": "",
+            "url": ""
+          }
+        },
+        {
           "date": "Mon 3/24",
           "topic": "🗓️ Midterm Exam"
         },
