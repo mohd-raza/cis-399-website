@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Course Material - CIS 3990</title>
+    <title>Course Materials - CIS 3990</title>
 
     <!-- Favicon -->
     <link rel="icon" href="assets/R2D2.png" type="image/png">
@@ -87,10 +87,10 @@
                                 <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-900">${session.date}</td>
                                 <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-900">${session.topic}</td>
                                 <td class="px-6 py-4 whitespace-nowrap text-sm">
-                                    ${session.slides ? `<a href="${session.slides.url}" class="text-blue-600 hover:text-blue-800">${session.slides.title}</a>` : ''}
+                                    ${session.slides ? `<a target="_blank" href="${session.slides.url}" class="text-blue-600 hover:text-blue-800">${session.slides.title}</a>` : ''}
                                 </td>
                                 <td class="px-6 py-4 whitespace-nowrap text-sm">
-                                    ${session.lectureVideo ? `<a href="${session.lectureVideo.url}" class="text-blue-600 hover:text-blue-800">${session.lectureVideo.title}</a>` : ''}
+                                    ${session.lectureVideo ? `<a target="_blank" href="${session.lectureVideo.url}" class="text-blue-600 hover:text-blue-800">${session.lectureVideo.title}</a>` : ''}
                                 </td>
                             </tr>
                         `;

@@ -57,7 +57,7 @@
             "url": "https://docs.google.com/presentation/d/1dycPKCsSlGlm-OENxc-_3ylBPl4agoT7Xr2JmiXuWp8/edit?usp=sharing"
           },
           "lectureVideo": {
-            "title": "[No Recording]",
+            "title": "",
             "url": ""
           }
         }
@@ -342,11 +342,11 @@
           "date": "Wed 3/19",
           "topic": "Midterm Review Session",
           "slides": {
-            "title": "lec15.pdf",
+            "title": "",
             "url": ""
           },
           "lectureVideo": {
-            "title": "Lecture 15",
+            "title": "",
             "url": ""
           }
         }
@@ -375,11 +375,11 @@
           "date": "Wed 3/26",
           "topic": "TBD",
           "slides": {
-            "title": "lec16.pdf",
+            "title": "",
             "url": ""
           },
           "lectureVideo": {
-            "title": "Lecture 16",
+            "title": "",
             "url": ""
           }
         }
