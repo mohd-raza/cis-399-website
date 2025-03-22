@@ -268,7 +268,7 @@
         },
         {
           "date": "Mon 3/3",
-          "topic": "Search Problems",
+          "topic": "Search Problems #1",
           "slides": {
             "title": "lec13.pdf",
             "url": "https://docs.google.com/presentation/d/1WRTRNpPJqCv6LtLneMoPhjo629Y9zEdV-YyZOozhM88/edit?usp=sharing"
@@ -280,7 +280,7 @@
         },
         {
           "date": "Wed 3/5",
-          "topic": "Search Problems Pt. 2: Informed Search",
+          "topic": "Search Problems #2: Informed Search",
           "slides": {
             "title": "lec14.pdf",
             "url": "https://docs.google.com/presentation/d/1JAilXfmd2O5u72IQnuaogqrpxbYGIa8Moj0xnf0ur84/edit?usp=sharing"
@@ -342,12 +342,12 @@
           "date": "Wed 3/19",
           "topic": "Midterm Review Session",
           "slides": {
-            "title": "",
+            "title": "lec15.pdf",
             "url": ""
           },
           "lectureVideo": {
-            "title": "",
-            "url": ""
+            "title": "Lecture 15",
+            "url": "https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bb054013-084e-45cd-9ad2-b2a700ba54da"
           }
         }
       ]
