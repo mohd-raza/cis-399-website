@@ -425,6 +425,170 @@
           }
         }
       ]
+    },
+    {
+      "weekNumber": 13,
+      "sessions": [
+        {
+          "date": "Mon 4/7",
+          "topic": "TBD",
+          "slides": {
+            "title": "",
+            "url": ""
+          },
+          "lectureVideo": {
+            "title": "",
+            "url": ""
+          }
+        },
+        {
+          "date": "Wed 4/9",
+          "topic": "TBD",
+          "slides": {
+            "title": "",
+            "url": ""
+          },
+          "lectureVideo": {
+            "title": "",
+            "url": ""
+          }
+        },
+        {
+          "date": "",
+          "topic": "📚 Homework 7: Uninformed Search",
+          "slides": {
+            "title": "HW7 (Due 4/9 at 11:59pm)",
+            "url": "https://canvas.upenn.edu/courses/1842203/assignments/13417335"
+          },
+          "lectureVideo": {
+            "title": "",
+            "url": ""
+          }
+        }
+      ]
+    },
+    {
+      "weekNumber": 14,
+      "sessions": [
+        {
+          "date": "Mon 4/14",
+          "topic": "TBD",
+          "slides": {
+            "title": "",
+            "url": ""
+          },
+          "lectureVideo": {
+            "title": "",
+            "url": ""
+          }
+        },
+        {
+          "date": "Wed 4/16",
+          "topic": "TBD",
+          "slides": {
+            "title": "",
+            "url": ""
+          },
+          "lectureVideo": {
+            "title": "",
+            "url": ""
+          }
+        },
+        {
+          "date": "",
+          "topic": "📚 Homework 8",
+          "slides": {
+            "title": "HW8 (Due 4/16 at 11:59pm)",
+            "url": ""
+          },
+          "lectureVideo": {
+            "title": "",
+            "url": ""
+          }
+        }
+      ]
+    },
+    {
+      "weekNumber": 15,
+      "sessions": [
+        {
+          "date": "Mon 4/21",
+          "topic": "TBD",
+          "slides": {
+            "title": "",
+            "url": ""
+          },
+          "lectureVideo": {
+            "title": "",
+            "url": ""
+          }
+        },
+        {
+          "date": "Wed 4/23",
+          "topic": "TBD",
+          "slides": {
+            "title": "",
+            "url": ""
+          },
+          "lectureVideo": {
+            "title": "",
+            "url": ""
+          }
+        },
+        {
+          "date": "",
+          "topic": "📚 Homework 9",
+          "slides": {
+            "title": "HW9 (Due 4/23 at 11:59pm)",
+            "url": ""
+          },
+          "lectureVideo": {
+            "title": "",
+            "url": ""
+          }
+        }
+      ]
+    },
+    {
+      "weekNumber": 16,
+      "sessions": [
+        {
+          "date": "Mon 4/28",
+          "topic": "TBD",
+          "slides": {
+            "title": "",
+            "url": ""
+          },
+          "lectureVideo": {
+            "title": "",
+            "url": ""
+          }
+        },
+        {
+          "date": "Wed 4/30",
+          "topic": "TBD",
+          "slides": {
+            "title": "",
+            "url": ""
+          },
+          "lectureVideo": {
+            "title": "",
+            "url": ""
+          }
+        },
+        {
+          "date": "",
+          "topic": "📚 Homework 10",
+          "slides": {
+            "title": "HW10 (Due 4/30 at 11:59pm)",
+            "url": ""
+          },
+          "lectureVideo": {
+            "title": "",
+            "url": ""
+          }
+        }
+      ]
     }
   ]
 }
