@@ -390,7 +390,7 @@
       "sessions": [
         {
           "date": "Mon 3/31",
-          "topic": "Games and Adversarial Search",
+          "topic": "Games and Adversarial Search #1",
           "slides": {
             "title": "lec16.pdf",
             "url": "https://docs.google.com/presentation/d/1d0f98gatU-_EMuOX_IpE3hxmy6FzJshjkJWR3J_0w_E/view?usp=sharing"
@@ -402,14 +402,14 @@
         },
         {
           "date": "Wed 4/2",
-          "topic": "TBD",
+          "topic": "Games and Adversarial Search #2",
           "slides": {
-            "title": "",
-            "url": ""
+            "title": "lec17.pdf",
+            "url": "https://docs.google.com/presentation/d/1d0f98gatU-_EMuOX_IpE3hxmy6FzJshjkJWR3J_0w_E/view?usp=sharing"
           },
           "lectureVideo": {
-            "title": "",
-            "url": ""
+            "title": "Lecture 17",
+            "url": "https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4ab2f436-7468-48dc-9268-b2b5013e3bd5"
           }
         },
         {
@@ -470,6 +470,18 @@
     {
       "weekNumber": 14,
       "sessions": [
+        {
+          "date": "Sun 4/13",
+          "topic": "📝 Module 6 Quiz",
+          "slides": {
+            "title": "Quiz 6 (due at 11:59pm)",
+            "url": "https://canvas.upenn.edu/courses/1842203/assignments/13420521"
+          },
+          "lectureVideo": {
+            "title": "",
+            "url": ""
+          }
+        },
         {
           "date": "Mon 4/14",
           "topic": "TBD",
@@ -566,21 +578,9 @@
         },
         {
           "date": "Wed 4/30",
-          "topic": "TBD",
+          "topic": "🗓️ Final Exam",
           "slides": {
             "title": "",
-            "url": ""
-          },
-          "lectureVideo": {
-            "title": "",
-            "url": ""
-          }
-        },
-        {
-          "date": "",
-          "topic": "📚 Homework 10",
-          "slides": {
-            "title": "HW10 (Due 4/30 at 11:59pm)",
             "url": ""
           },
           "lectureVideo": {
