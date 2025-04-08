@@ -431,13 +431,13 @@
       "sessions": [
         {
           "date": "Mon 4/7",
-          "topic": "TBD",
+          "topic": "Logical Agents",
           "slides": {
-            "title": "",
-            "url": ""
+            "title": "lec18.pdf",
+            "url": "https://docs.google.com/presentation/d/11HLvVNYftr9pIio9iNh4U2NGDTw8PbNq30E5b3yPOXg/view?usp=sharing"
           },
           "lectureVideo": {
-            "title": "",
+            "title": "Lecture 18",
             "url": ""
           }
         },
@@ -508,7 +508,7 @@
         },
         {
           "date": "",
-          "topic": "📚 Homework 8",
+          "topic": "📚 Homework 8: Informed Search",
           "slides": {
             "title": "HW8 (Due 4/16 at 11:59pm)",
             "url": ""
@@ -537,7 +537,7 @@
         },
         {
           "date": "Wed 4/23",
-          "topic": "TBD",
+          "topic": "Final Exam Review Session",
           "slides": {
             "title": "",
             "url": ""
@@ -566,7 +566,7 @@
       "sessions": [
         {
           "date": "Mon 4/28",
-          "topic": "TBD",
+          "topic": "Course Wrap-Up",
           "slides": {
             "title": "",
             "url": ""
