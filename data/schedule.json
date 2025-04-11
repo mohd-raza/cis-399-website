@@ -438,19 +438,19 @@
           },
           "lectureVideo": {
             "title": "Lecture 18",
-            "url": ""
+            "url": "https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=554d1c17-ad26-4698-b8cf-b2ba017a3b07"
           }
         },
         {
           "date": "Wed 4/9",
-          "topic": "TBD",
+          "topic": "Theorem Proving and PDDL",
           "slides": {
-            "title": "",
-            "url": ""
+            "title": "lec19.pdf",
+            "url": "https://docs.google.com/presentation/d/12K94IxuTI5o7D_etw5z2Z3ED7oD-D70im0ZL8SPZq_E/view?usp=sharing"
           },
           "lectureVideo": {
-            "title": "",
-            "url": ""
+            "title": "Lecture 19",
+            "url": "https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6d734af0-9f6f-4eaa-a854-b2ba017b0d3d"
           }
         },
         {
