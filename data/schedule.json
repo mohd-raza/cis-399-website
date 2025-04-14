@@ -524,6 +524,18 @@
       "weekNumber": 15,
       "sessions": [
         {
+          "date": "Sun 4/20",
+          "topic": "📝 Module 7 Quiz",
+          "slides": {
+            "title": "Quiz 7 (due at 11:59pm)",
+            "url": "https://canvas.upenn.edu/courses/1842203/assignments/13431515"
+          },
+          "lectureVideo": {
+            "title": "",
+            "url": ""
+          }
+        },
+        {
           "date": "Mon 4/21",
           "topic": "TBD",
           "slides": {
