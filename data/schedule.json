@@ -484,13 +484,13 @@
         },
         {
           "date": "Mon 4/14",
-          "topic": "TBD",
+          "topic": "Markov Decision Processes",
           "slides": {
-            "title": "",
-            "url": ""
+            "title": "lec20.pdf",
+            "url": "https://docs.google.com/presentation/d/1AV-fCdjbutg1PK7kNIZNVL_uXXHSOsGmwHARo3mHnnY/view?usp=sharing"
           },
           "lectureVideo": {
-            "title": "",
+            "title": "Lecture 20",
             "url": ""
           }
         },
