@@ -491,19 +491,19 @@
           },
           "lectureVideo": {
             "title": "Lecture 20",
-            "url": ""
+            "url": "https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b458f5ba-81b7-4a74-a308-b2c50188cfd1"
           }
         },
         {
           "date": "Wed 4/16",
-          "topic": "TBD",
+          "topic": "Markov Decision Processes Pt. 2",
           "slides": {
-            "title": "",
-            "url": ""
+            "title": "lec21.pdf",
+            "url": "https://docs.google.com/presentation/d/1AV-fCdjbutg1PK7kNIZNVL_uXXHSOsGmwHARo3mHnnY/view?usp=sharing"
           },
           "lectureVideo": {
-            "title": "",
-            "url": ""
+            "title": "Lecture 21",
+            "url": "https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=98f47bde-3c7c-490f-b0bc-b2c50189accd"
           }
         },
         {
@@ -525,26 +525,26 @@
       "sessions": [
         {
           "date": "Mon 4/21",
-          "topic": "TBD",
+          "topic": "Reinforcement Learning",
           "slides": {
-            "title": "",
-            "url": ""
+            "title": "lec22.pdf",
+            "url": "https://docs.google.com/presentation/d/1L11trQ57JocdaLBuUtcrmBbQi5auuyVb1mTMMmAVaMI/view?usp=sharing"
           },
           "lectureVideo": {
-            "title": "",
-            "url": ""
+            "title": "Lecture 22",
+            "url": "https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0ed69f9f-cb6c-4ac1-8e1c-b2c8015e3d57"
           }
         },
         {
           "date": "Wed 4/23",
-          "topic": "Final Exam Review Session",
+          "topic": "Reinforcement Learning Pt. 2 + Final Exam Review Session",
           "slides": {
-            "title": "",
-            "url": ""
+            "title": "lec23.pdf",
+            "url": "https://docs.google.com/presentation/d/1L11trQ57JocdaLBuUtcrmBbQi5auuyVb1mTMMmAVaMI/view?usp=sharing"
           },
           "lectureVideo": {
-            "title": "",
-            "url": ""
+            "title": "Lecture 23",
+            "url": "https://upenn.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=09db9408-85e8-4419-9357-b2c8015e840f"
           }
         },
         {
